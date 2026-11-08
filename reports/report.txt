@@ -1,0 +1,8 @@
+Автор: Parin
+Проект: my-project
+Созданные файлы:
+my-project/README.txt
+my-project/config.txt
+my-project/data.txt
+Количество файлов: 3
+Дата запуска: Sun Nov  8 05:19:00 MSK 2026
